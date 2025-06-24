@@ -26,11 +26,10 @@ Follow these steps to set up and run the project:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Karthick-MurugesanG/Angular_Weather_app.git
 cd AngularWeatherApp
 ```
 
-Replace `<your-repo-url>` with your actual repository URL.
 
 ---
 
